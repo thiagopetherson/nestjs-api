@@ -1,0 +1,11 @@
+--2024-10-12 13:57:49--  https://dbeaver.io/debs/dbeaver.gpg.key
+Resolving dbeaver.io (dbeaver.io)... 104.131.190.124
+Connecting to dbeaver.io (dbeaver.io)|104.131.190.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3120 (3,0K) [application/octet-stream]
+Saving to: ‘STDOUT’
+
+-                                                    0%[                                                                                                                 ]       0  --.-KB/s               -                                                  100%[================================================================================================================>]   3,05K  --.-KB/s    in 0s      
+
+2024-10-12 13:57:50 (261 MB/s) - written to stdout [3120/3120]
+
